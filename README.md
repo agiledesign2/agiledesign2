@@ -20,7 +20,7 @@ Tengo 5 años de experiencia desarrollando y programando. Utilizo el lenguaje Py
 
 #### 📫 Contactame
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/agiledesign2)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agiledesign2)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/pythondesign1)
 [<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](https://agiledesign2.github.io/)
 
