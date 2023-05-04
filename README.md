@@ -4,7 +4,7 @@
 
 Hola! soy <strong>David Gómez</strong>. Me dedico al desarrollo de sitios y aplicaciones web. Mi pasión es crear cosas nuevas y a la medida del problema.
 
-Tengo 5 años de experiencia desarrollando y programando. Utilizo el lenguaje Python para realizar aplicaciones web y de escritorio. He trabajado en el diseño y desarrollo de sitios web como programador de Back-end.</p>
+Tengo 7 años de experiencia desarrollando y programando. Utilizo el lenguaje Python para realizar aplicaciones web y de escritorio. He trabajado en el diseño y desarrollo de sitios web como programador de Back-end.</p>
 
 -  Python es el lenguaje con el que tengo más experiencia, también he trabajado con los lenguajes JavaScript y C/C++.</p>
 
